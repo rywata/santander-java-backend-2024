@@ -1,4 +1,4 @@
-# Santander Dev Week 2023
+# Santander Java Bootcamp 2024
 
 Java RESTful API criada para a Santander Dev Week.
 
